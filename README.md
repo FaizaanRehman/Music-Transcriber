@@ -27,5 +27,5 @@ To improve the precision/accuracy of the Neural Network:
 
 
 ## Resources Used ##
-The training data for the neural network was obtained from: https://freesound.org/people/TEDAgame/packs/25405/?page=6#sound
-For processing the audio and structuring the neural network, tutorials and examples from 'The Sound of AI' were followed: https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ
+- The training data for the neural network was obtained from: https://freesound.org/people/TEDAgame/packs/25405/?page=6#sound
+- For processing the audio and structuring the neural network, tutorials and examples from 'The Sound of AI' were followed: https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ
