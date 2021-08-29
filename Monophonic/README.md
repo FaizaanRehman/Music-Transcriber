@@ -13,9 +13,9 @@ Here is a processed audio sample of the piano note C5 (key number 52) in its Mel
 
 ![C5melspec](https://user-images.githubusercontent.com/59456593/131265878-b96be13a-81bc-47e7-93e6-45849279a09c.png)
 
-The Neural Network predicted the note B4 (key number 51) over most of the frames of the audio, which is one semitone below the intended result:
+The Neural Network predicted the note G3 (key number 35) over most of the frames of the audio, which is much lower than the expected note. Over the first few frames of the audio, the prediction is quite strong. As the audio begins to fade, the prediction becomes weaker and it begins to consider other notes.
 
-![Figure_2](https://user-images.githubusercontent.com/59456593/117213324-76513f80-adc9-11eb-96e6-4a5aae32c364.png)
+![C5predic](https://user-images.githubusercontent.com/59456593/131266038-5df316af-b71c-402b-ac0e-f6c11aaec19b.png)
 
 # Future Goals #
 To improve the precision/accuracy of the Neural Network:
