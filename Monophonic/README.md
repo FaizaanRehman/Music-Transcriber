@@ -11,7 +11,7 @@ The goal of this attempt is to accurately estimate the pitch of a piano note giv
 ## Example ##
 Here is a processed audio sample of the piano note C5 (key number 52) in its Mel Spectrogram respresentation:
 
-![Figure_1](https://user-images.githubusercontent.com/59456593/117212926-f6c37080-adc8-11eb-8292-c625967b74ed.png)
+![C5melspec](https://user-images.githubusercontent.com/59456593/131265878-b96be13a-81bc-47e7-93e6-45849279a09c.png)
 
 The Neural Network predicted the note B4 (key number 51) over most of the frames of the audio, which is one semitone below the intended result:
 
