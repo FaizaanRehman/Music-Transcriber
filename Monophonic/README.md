@@ -10,7 +10,8 @@ The goal of this attempt is to accurately estimate the pitch of a piano note giv
 
 ## Example ##
 Here is the audio sample of the piano note C5 (key number 52):
-https://user-images.githubusercontent.com/59456593/131266289-c13f95a1-557f-4efa-a07c-e42a3843d6c8.mp4
+
+[Piano Note C5](https://user-images.githubusercontent.com/59456593/131266289-c13f95a1-557f-4efa-a07c-e42a3843d6c8.mp4)
 
 Here is a processed audio sample of the piano note C5 (key number 52) in its Mel Spectrogram respresentation:
 
