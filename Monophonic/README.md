@@ -13,7 +13,7 @@ Here is the audio sample of the piano note C5 (key number 52):
 
 [Piano Note C5](https://user-images.githubusercontent.com/59456593/131266289-c13f95a1-557f-4efa-a07c-e42a3843d6c8.mp4)
 
-Here is a processed audio sample of the piano note C5 (key number 52) in its Mel Spectrogram respresentation:
+Here is the processed audio sample in its Mel Spectrogram respresentation:
 
 ![C5melspec](https://user-images.githubusercontent.com/59456593/131265878-b96be13a-81bc-47e7-93e6-45849279a09c.png)
 
