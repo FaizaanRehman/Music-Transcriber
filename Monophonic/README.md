@@ -1,8 +1,6 @@
-# Music Transcriber #
+# Monophonic Piano Pitch Estimation #
 
-This project attempts to transcribe piano music into its symbolic representation. For more information, please visit: https://en.wikipedia.org/wiki/Transcription_(music)#Automatic_music_transcription
-
-Currently, the program seeks to determine the pitch of the notes in a piano audio sample.
+The goal of this attempt is to accurately estimate the pitch of a piano note given its audio sample.
 
 ### General Design/Workflow: ###
 - Accept an audio file contain piano music (eg: .mp3, .ogg, .wav)
@@ -11,11 +9,11 @@ Currently, the program seeks to determine the pitch of the notes in a piano audi
 - Format output into interpretable info (MIDI number corresponding to note)
 
 ## Example ##
-Here is a processed audio sample of the piano note C5 (MIDI note 52):
+Here is a processed audio sample of the piano note C5 (key number 52) in its Mel Spectrogram respresentation:
 
 ![Figure_1](https://user-images.githubusercontent.com/59456593/117212926-f6c37080-adc8-11eb-8292-c625967b74ed.png)
 
-The Neural Network predicted the note B4 (MIDI note 51) over most of the frames of the audio, which is one semitone below the intended result:
+The Neural Network predicted the note B4 (key number 51) over most of the frames of the audio, which is one semitone below the intended result:
 
 ![Figure_2](https://user-images.githubusercontent.com/59456593/117213324-76513f80-adc9-11eb-96e6-4a5aae32c364.png)
 
