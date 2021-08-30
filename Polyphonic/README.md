@@ -38,6 +38,10 @@ Here are the training results for the onset predictor model:
 ![loss_onset](https://user-images.githubusercontent.com/59456593/131267953-85995d52-bf39-4acc-b9fd-c2a91835f0cd.png)
 ![onset_error](https://user-images.githubusercontent.com/59456593/131267959-2c297536-0760-4d7d-8337-d3b6e442e493.png)
 
+Here are the 4 convolution filters that were generated in this model:
+
+![convfilters](https://user-images.githubusercontent.com/59456593/131404194-3ee900eb-65e2-44a9-9817-eee497ab7ff2.png)
+
 Ultimately it does not seem like the current state of these models are appropriate for the prediction tasks of this project.
 
 # Future Improvements #
